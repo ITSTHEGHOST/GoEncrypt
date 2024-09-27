@@ -13,6 +13,6 @@ A simple command-line tool written in Go for encrypting and decrypting files usi
 
 ## Installation
 
-1. 
+1.    git clone https://github.com/ITSTHEGHOST/GoEncrypt
 
-2. 
+2.    go run Encrypt.go File Key 
