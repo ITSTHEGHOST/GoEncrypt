@@ -21,4 +21,3 @@ A simple command-line tool written in Go for encrypting and decrypting files usi
 5.    if you want a executble file (go build Encrypt.go) (go build Decrypt.go)
 
 
-Donate XMR -> 49V3GPAxWc259BBoUv7Hvifijq1VvD7yRfHH8vUBzZQpUHLynFRAHXKKYdXzNwHVJJ1j8NUbbADN3H7ZNUQhp1yCN7zmqZF 
